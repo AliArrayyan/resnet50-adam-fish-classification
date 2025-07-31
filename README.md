@@ -43,7 +43,7 @@ graph TD
 ```
 ## Prototype Model
 
-[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/your-notebook.ipynb)
+[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QM7UcGnMTVDAS0npJxhLk4LwIj97I53T?usp=sharing)
 
 ## Demo Langsung
 

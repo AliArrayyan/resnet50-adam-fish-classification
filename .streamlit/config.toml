@@ -1,0 +1,8 @@
+[theme]
+
+base = "light"
+primaryColor = "#1a73e8"
+backgroundColor = "#6a9ddc"
+secondaryBackgroundColor = "#b3c5ef"
+textColor = "#2c3e50"
+font = "Roboto"
